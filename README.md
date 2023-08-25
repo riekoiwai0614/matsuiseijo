@@ -4,3 +4,5 @@ https://www.matsuiseijyo.com/
 HTML/CSS/Javascript
 ## 使用技術・ライブラリ・フレームワーク
 jQuery
+## 担当箇所
+下層ページ
